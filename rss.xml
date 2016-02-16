@@ -4,7 +4,7 @@
         <description><![CDATA[just a bunch of random tweets]]></description>
         <link>https://thegrid.ai/robbiebeta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 22:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 22:38:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/robbiebeta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,13 +61,6 @@
             <link>https://twitter.com/dacanesrock/status/699619563265196032</link>
             <guid isPermaLink="false">a988baaa-e5e6-45f3-8a6c-ef9450af6d0f</guid>
             <pubDate>Tue, 16 Feb 2016 22:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7887fa9-6988-4f86-8a92-76c79c59ed28.png">]]></description>
-            <link>https://thegrid.ai/robbiebeta/ee60f4e8-36fd-4652-a6e1-f9aa9e684323/index.html</link>
-            <guid isPermaLink="false">ee60f4e8-36fd-4652-a6e1-f9aa9e684323</guid>
-            <pubDate>Tue, 09 Feb 2016 17:49:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
